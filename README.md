@@ -15,7 +15,7 @@ Installation & Setup
 
 1. Clone the Repository
 
-git clone https://github.com/your-repo/scorecard.git
+git clone
 cd scorecard/backend
 
 2. Create a Virtual Environment
