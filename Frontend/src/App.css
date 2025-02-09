@@ -1,0 +1,13 @@
+/* App.css */
+body {
+  background-color: lightblue;
+}
+
+.header {
+  color: red;
+}
+
+button {
+  background-color: green;
+  color: white;
+}
