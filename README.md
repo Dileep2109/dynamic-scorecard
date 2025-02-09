@@ -3,12 +3,12 @@ Dynamic Scorecard Backend (FastAPI) & Frontend (React)
 This is a full-stack Dynamic Scorecard application with a FastAPI backend and a React frontend.
 
 * Features
- Add new scores
- Retrieve all scores
- Compare scores
- Delete all scores
- Data visualization with charts
- Export score data (CSV/PDF)
+ 1. Add new scores
+ 2. Retrieve all scores
+ 3. Compare scores
+ 4. Delete all scores
+ 5. Data visualization with charts
+ 6. Export score data (CSV/PDF)
 
 * Backend - FastAPI
 Installation & Setup
